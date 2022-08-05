@@ -1,1 +1,3 @@
 # Project-XYZ
+
+- detail-page
